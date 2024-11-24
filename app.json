@@ -3,14 +3,14 @@
   "displayName": "mobileyuvital",
   "extra": {
     "eas": {
-      "projectId": "e9d1f4e8-50c2-4e2d-a2f5-c1b372719463"
+      "projectId": "177cda9c-22d5-482e-9db2-694c7c26622a"
     }
   },
   "runtimeVersion": "1.0.0",
   "updates": {
-    "url": "https://u.expo.dev/e9d1f4e8-50c2-4e2d-a2f5-c1b372719463"
+    "url": "https://u.expo.dev/177cda9c-22d5-482e-9db2-694c7c26622a"
   },
   "android": {},
   "ios": {},
-  "owner": "yaronlevi"
+  "owner": "yuvital"
 }
