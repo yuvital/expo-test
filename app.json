@@ -1,4 +1,16 @@
 {
   "name": "mobileyuvital",
-  "displayName": "mobileyuvital"
+  "displayName": "mobileyuvital",
+  "extra": {
+    "eas": {
+      "projectId": "e9d1f4e8-50c2-4e2d-a2f5-c1b372719463"
+    }
+  },
+  "runtimeVersion": "1.0.0",
+  "updates": {
+    "url": "https://u.expo.dev/e9d1f4e8-50c2-4e2d-a2f5-c1b372719463"
+  },
+  "android": {},
+  "ios": {},
+  "owner": "yaronlevi"
 }
