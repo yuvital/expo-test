@@ -12,5 +12,6 @@
   },
   "android": {},
   "ios": {},
-  "owner": "yuvital"
+  "owner": "yuvital",
+  "jsEngine": "jsc"
 }
